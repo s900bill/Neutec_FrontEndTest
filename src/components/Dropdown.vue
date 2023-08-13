@@ -36,14 +36,6 @@ const dropdownlist = computed(() => {
   return list;
 });
 const dropdownvalue = ref([]);
-
-// watch(
-//   () => dropdownvalue,
-//   (newvalue) => {
-//     emit("select", newvalue);
-
-//   }
-// );
 watch(
   () => prop.currentselect,
   (newvalue) => {

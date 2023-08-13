@@ -27,7 +27,6 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from "vue";
 const prop = defineProps({
   data: { type: Array, required: true, default: [] },
   currentselect: { type: Array, required: true, default: [] },

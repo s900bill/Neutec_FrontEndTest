@@ -27,4 +27,4 @@ const ballmovetypelist = [
 const currentballmovetype = ref(ballmovetypelist[0].ID);
 </script>
 
-<style lang="scss" scoped></style>
+

@@ -54,8 +54,8 @@ watch(
       newballs.push({
         id: i + 1,
         style: {
-          left: Math.random() * 450 + "px", // 随机起始位置
-          top: Math.random() * 450 + "px", // 随机起始位置
+          left: Math.random() * 450 + "px",
+          top: Math.random() * 450 + "px",
         },
       });
     }

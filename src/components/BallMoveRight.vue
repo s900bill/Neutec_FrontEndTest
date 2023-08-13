@@ -97,7 +97,6 @@ const ballincorner = [0, 2, 6, 8];
   }
   100% {
     left: calc(100vw - 100% + 30px);
-    //left: calc(300% - 30px);
   }
 }
 </style>
