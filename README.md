@@ -1,21 +1,14 @@
-# Vue 3 + Vite
+# Demo
+https://s900bill.github.io/Neutec_FrontEndTest/
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# 完成項目
 
-While this project uses Vue.js, Vite supports many popular JS frameworks. [See all the supported frameworks](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
-
-## Deploy Your Own
-
-Deploy your own Vite project with Vercel.
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/vercel/tree/main/examples/vite&template=vite)
-
-_Live Example: https://vite-vue-template.vercel.app_
-
-### Deploying From Your Terminal
-
-You can deploy your new Vite project with a single command from your terminal using [Vercel CLI](https://vercel.com/download):
-
-```shell
-$ vercel
-```
+1.側邊欄開啟/收合
+2.展開側邊欄子元素
+3.hightlight並且記錄選中項目，關閉分頁後再開啟，可以顯示上次選取的項目
+4.另提供一個下拉選單，需包含所有種類。從下拉選單中選取任一項目時，等同點擊該項目
+5.可支援最多一百層的選單
+6.九宮格格子閃爍
+7.小球向右移動
+8.可以增加小球到100顆以上
+9.可以設定小球朝同一個座標點或滑鼠指標移動
